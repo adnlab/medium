@@ -1,5 +1,3 @@
-Created: 2022-10-26 08:25
-Tags: #journal 
 
 Hari kedua pembelajaran Aqua-Developer Batch 2.2, kami diberikan pembekalan mengenai Git, yaitu sistem manajemen perubahan dokumen (*version control*) yang dapat memudahkan proses sinkronisasi dokumen utama dari berbagai versi dokumen. Pertemuan kali ini, mentoring lebih banyak diisi dengan sesi *hands-on* dimana kami diajak untuk lebih membiasakan diri untuk menggunakan Git melalui perintah-perintah yang umum digunakan dalam pengembangan suatu sistem. Selain itu, kami juga diperkenalkan dengan konsep *trunk based development*, yaitu strategi pengembangan dimana semua *developer* melakukan pengembangan langsung pada *main branch* yang juga disebut sebagai *trunk*.
 
